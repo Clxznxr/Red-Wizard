@@ -13,7 +13,7 @@
 ```
 
 1. git clone https://github.com/Clxzner/Red-Wizard.git
-2. cd RedWizard
+2. cd Red-Wizard
 3. chmod +x *
 4. ./install.sh 
 or ./RedWizard.py
